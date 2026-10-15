@@ -18,6 +18,10 @@ groupleader/
 teammate1/
 teammate2/
 Each member works only inside their assigned folder and creates a personal webpage named index.html.
+Team Members:
+Group Leader: Zainab Safdar
+Teammate 1: Abeeha Ihsan
+
 
 ---
 
